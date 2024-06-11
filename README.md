@@ -42,8 +42,7 @@ You can deploy this app by setting up the following services and adding their en
 6. Now your frontend and backend should be running and you should be able to log in but not support OpenAI features.
 7. Create an [OpenAI](https://platform.openai.com/) account to get $5 of free credit or pay for your current account and get your `OPENAI_API_KEY` and add it to Convex Dashboard
 8. To enable video calling, create a [ZEGOCLOUD](https://www.zegocloud.com) account, create a project and select voice && video calls. Paste `ZEGO_APP_ID` and `ZEGO_SERVER_SECRET` to .env.local and save
-9. Now it should be up and running. Check out the [TUTORIAL](https://youtu.be/sQ1zvdS8eU8) for a complete walk-through.
+
 
 ## Thanks for your support
 
--   Like && Subscribe for more projects like this
